@@ -1,6 +1,8 @@
-# FrodoKEM RTL Implementation
+# Accelerating FrodoKEM in Hardware
 
-This directory contains the verilog implementation of the FrodoKEM post-quantum cryptographic algorithm.
+This repository consists of hardware implementation of [FrodoKEM](https://frodokem.org/).
+
+This hardware implementation is part of the research work published at IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES 2026). The paper is available at https://tches.iacr.org/index.php/TCHES/article/view/13129/.
 
 ## Directory Structure
 
